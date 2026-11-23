@@ -1,0 +1,22 @@
+# Flutter / Dart
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# ความลับ — Week 12 เป็นต้นไปจะมีไฟล์พวกนี้ อย่า commit เด็ดขาด
+*.env
+google-services.json
+GoogleService-Info.plist
+key.properties
+*.jks
